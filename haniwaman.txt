@@ -1,0 +1,28 @@
+## Githubからダウンロード
+
+$ git clone https://github.com/git-study-team/practice.git
+$ cd practice
+
+
+## ブランチを切る
+
+$ git branch [ブランチ名]
+$ git checkout [ブランチ名]
+
+
+（ファイルを編集）
+
+
+## コミット
+
+$ git add -A
+$ git commit -m "コメント"
+
+
+## Githubにpush
+
+$ git push origin [ブランチ名]
+
+
+## GithubにPullRequest
+
